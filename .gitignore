@@ -59,10 +59,3 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
-
-app/libs/
-app/src/androidTest/
-app/src/test/
-bottomdialog/libs/
-bottomdialog/src/main/java/
-bottomdialog/src/main/res/drawable/
