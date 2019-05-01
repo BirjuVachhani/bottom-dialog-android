@@ -10,13 +10,20 @@
 * Add the JitPack repository to your **project's build.gradle** file
 
 ```
-// TODO
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 
 * Add the dependency in your **app's build.gradle** file
 
 ```
-// TODO
+dependencies {
+    implementation 'com.github.BirjuVachhani:bottom-dialog-android:1.0.0-alpha01'
+}
 ```
 
 ## Usage
